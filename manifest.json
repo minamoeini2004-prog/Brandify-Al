@@ -1,0 +1,12 @@
+{
+  "name": "Brandify AI - دستیار برند شخصی",
+  "short_name": "Brandify AI",
+  "description": "ابزار آموزشی ساخت برند شخصی با کمک هوش مصنوعی",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f7fc",
+  "theme_color": "#5b4bdb",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
